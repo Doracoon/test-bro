@@ -86,7 +86,7 @@ int main() {
 		}
 	}
 	cout << count[0] << "abc";
-	cout << count[3] << "dkfwla";
-	cout << count[2] << "Milk Boy";
+	cout << count[1] << "abcd";
+	cout << count[2] << "abcde";
 	return 0;
 }
