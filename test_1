@@ -85,6 +85,7 @@ int main() {
 				count[1] = -1;
 		}
 	}
+	cout << count[0] << "abc";
 	cout << count[1] << "abca";
 	return 0;
 }
